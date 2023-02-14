@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "846636643385",
+    "project_id": "technohome-2eb9c",
+    "storage_bucket": "technohome-2eb9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846636643385:android:6fcc1f8c6de027fc4d49e8",
+        "android_client_info": {
+          "package_name": "com.example.myproyecto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846636643385-2n864jddp7niokn85i7es68k3jjub4p7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChakEA6kq0IdH3SgaxmneChZ35g5sX0JY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846636643385-2n864jddp7niokn85i7es68k3jjub4p7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
