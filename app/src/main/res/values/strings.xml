@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Myproyecto</string>
     <string name="strOlvidar">olvide mi contraseña</string>
+    <string name="event_list_title">Lista de eventos</string>
+
+    <string name="event_title">Event Title</string>
+    <string name="event_date">Event Date</string>
+    <string name="event_location">Event Location</string>
+
 </resources>
